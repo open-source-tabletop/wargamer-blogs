@@ -1,2 +1,5 @@
-# wargamer-blogs
-A simple linked list of good wargamer blogs. Life was better when people just had their own websites.
+# Blogs about Wargaming, Painting Minis, and all the related hobbies
+
+Life is better when people just have their own small websites.
+
+[The Responsible One's Wargaming Blog ](https://the-responsible-one.blogspot.com/)
