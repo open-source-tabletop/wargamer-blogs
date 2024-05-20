@@ -10,3 +10,4 @@ Life is better when people just have their own small websites.
 - [Tiikerikani](https://tiikerikani.tumblr.com/)
 - [Halfbeard Press](https://www.halfbeardpress.com/)
 - [Yore](https://www.martinralya.com/)
+- [Wölfblag](https://blog.virtualwolf.org/)
