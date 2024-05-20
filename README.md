@@ -13,3 +13,4 @@ Life is better when people just have their own small websites.
 - [Wölfblag](https://blog.virtualwolf.org/)
 - [Superficial Deposits](https://verdigrhys.neocities.org/)
 - [Yet Another Dropzone, Commander](https://yadzcb.friestman.net/)
+- [Hobby Painter NYC](https://www.hobbypainter.nyc/)
