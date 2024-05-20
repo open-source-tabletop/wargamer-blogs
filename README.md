@@ -11,3 +11,5 @@ Life is better when people just have their own small websites.
 - [Halfbeard Press](https://www.halfbeardpress.com/)
 - [Yore](https://www.martinralya.com/)
 - [Wölfblag](https://blog.virtualwolf.org/)
+- [Superficial Deposits](https://verdigrhys.neocities.org/)
+- [Yet Another Dropzone, Commander](https://yadzcb.friestman.net/)
