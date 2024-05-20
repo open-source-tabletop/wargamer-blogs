@@ -8,3 +8,4 @@ Life is better when people just have their own small websites.
 - [Monger's Parchment](https://mongersparchment.blogspot.com/)
 - [Big Geordie Geek](https://biggeordiegeek.uk/)
 - [Tiikerikani](https://tiikerikani.tumblr.com/)
+- [Halfbeard Press](https://www.halfbeardpress.com/)
